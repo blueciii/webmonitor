@@ -6,9 +6,6 @@ from consumer import Consumer
 from database import Database
 
 
-needed_files = ['service.cert', 'ca.pem', 'service.key']
-
-
 def monitor(
     db_name, 
     db_host, 
