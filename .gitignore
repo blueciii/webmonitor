@@ -1,0 +1,11 @@
+*.pyc
+/venv
+*.egg
+*.egg-info/
+*.pem
+*.cert
+*.key
+.vscode/
+config.py
+**/__pycache__
+.pytest_cache
